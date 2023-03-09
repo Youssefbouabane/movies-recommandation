@@ -16,10 +16,10 @@ How to install and run the application
 ### Installation
 
 ```bash
-$ git clone https://github.com/{username}/{repo}.git
-$ cd {repo}
+$ git clone https://github.com/Youssefbouabane/movies-recommandation.git
+$ cd movies-recommandation
 $ mvn clean install
-$ java -jar target/<your-project-name>.jar
+$ java -jar target/movies.jar
 ```
 
 ## Documentation
@@ -35,8 +35,10 @@ The /recommendations endpoint accept a query parameter genre that contains the u
 #### Exemple : 
 
 Input : http://localhost:8085/recommendations?genre=drama
+<br>
 Output :
-
+<b>
+```bash
 [
   {
     "id": 11,
@@ -60,3 +62,7 @@ Output :
     "director": "Francis Ford Coppola"
   }
 ]
+```
+### Movie repository
+
+You can find the movie repository ( list of movies ) in file static/movies.json.
