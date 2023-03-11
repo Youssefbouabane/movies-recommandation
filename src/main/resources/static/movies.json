@@ -1,0 +1,86 @@
+[
+   {
+      "id":1,
+      "title":"The Shawshank Redemption",
+      "genre":"Drama",
+      "releaseYear":1994,
+      "director":"Frank Darabont"
+   },
+   {
+      "id":2,
+      "title":"The Godfather",
+      "genre":"Drama",
+      "releaseYear":1972,
+      "director":"Francis Ford Coppola"
+   },
+   {
+      "id":3,
+      "title":"The Dark Knight",
+      "genre":"Action",
+      "releaseYear":2008,
+      "director":"Christopher Nolan"
+   },
+   {
+      "id":4,
+      "title":"No Country for Old Men",
+      "genre":"Crime",
+      "releaseYear":2007,
+      "director":"Ethan Coen"
+   },
+   {
+      "id":5,
+      "title":"Lost in Translation",
+      "genre":"Comedy",
+      "releaseYear":2003,
+      "director":"Sofia Coppola"
+   },
+   {
+      "id":6,
+      "title":"O' Brother",
+      "genre":"Comedy",
+      "releaseYear":2000,
+      "director":"Joel Coen"
+   },
+   {
+      "id":7,
+      "title":"Le labyrinthe de Pan",
+      "genre":"Fantasy",
+      "releaseYear":2006,
+      "director":"Guillermo del Toro"
+   },
+   {
+      "id":8,
+      "title":"Blood Diamond",
+      "genre":"Adventure",
+      "releaseYear":2006,
+      "director":"Adventure"
+   },
+   {
+      "id":9,
+      "title":"City of God",
+      "genre":"Crime",
+      "releaseYear":2002,
+      "director":"ernando Meirelles"
+   },
+   {
+      "id":10,
+      "title":"Martin Scorsese",
+      "genre":"Crime",
+      "releaseYear":2006,
+      "director":"Martin Scorsese"
+   },
+   {
+      "id":11,
+      "title":"Slumdog Millionaire",
+      "genre":"Drama",
+      "releaseYear":2008,
+      "director":"Danny Boyle"
+   },
+   {
+      "id":12,
+      "title":"Gladiator",
+      "genre":"Adventure",
+      "releaseYear":2000,
+      "director":"Ridley Scott"
+   }
+]
