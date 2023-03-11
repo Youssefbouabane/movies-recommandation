@@ -18,8 +18,7 @@ How to install and run the application
 ```bash
 $ git clone https://github.com/Youssefbouabane/movies-recommandation.git
 $ cd movies-recommandation
-$ mvn clean install
-$ java -jar target/movies.jar
+$ mvn package spring-boot:run
 ```
 
 ## Documentation
@@ -34,9 +33,9 @@ The /recommendations endpoint accept a query parameter genre that contains the u
 
 #### Exemple : 
 
-Input : http://localhost:8085/recommendations?genre=drama
+Request : GET http://localhost:8085/recommendations?genre=drama
 <br>
-Output :
+Response :
 <b>
 ```bash
 [
